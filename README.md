@@ -1,5 +1,6 @@
 # NotesApi
-This is Backened of Notes API in which do CRUD operation and and also jwt authentication is used.
+This is Backened of Notes API in which we can do CRUD operation(Create,Update,Read,Delete).<br>
+In this project jwt authentication is used. We can signIn and signUp.
 # Outputs 
 # SignUp
 ![Screenshot (344)](https://user-images.githubusercontent.com/110723566/202512784-d2633e2c-7af4-4da7-bee2-452347c259ff.png)
